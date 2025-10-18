@@ -1,4 +1,4 @@
-## Identificación de factores de riesgo en el incumplimiento de deudores morosos
+### Identificación de factores de riesgo en el incumplimiento de deudores morosos
 
 **Descripción del Proyecto:**
 
@@ -16,7 +16,7 @@ El análisis final derivó en recomendaciones estratégicas orientadas a la gest
 
 ---
 
-## Financial Risk Analysis and Time Series Forecasting
+### Financial Risk Analysis and Time Series Forecasting
 
 **Project Description:**
 
