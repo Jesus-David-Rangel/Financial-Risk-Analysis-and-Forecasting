@@ -1,4 +1,4 @@
-### Identificación de factores de riesgo en el incumplimiento de deudores morosos
+### Identificación de Factores de Riesgo en el incumplimiento de Obligaciones Financieras
 
 **Descripción del Proyecto:**
 
