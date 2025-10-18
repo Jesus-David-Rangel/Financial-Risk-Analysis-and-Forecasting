@@ -1,4 +1,4 @@
-### Identificación de Factores de Riesgo en el incumplimiento de Obligaciones Financieras
+### Identificación de Factores de Riesgo en el incumplimiento de Préstamos Financieros
 
 **Descripción del Proyecto:**
 
