@@ -1,4 +1,4 @@
-### Análisis de Riesgo Financiero y Pronóstico de Series Temporales
+## Análisis de Riesgo Financiero y Pronóstico de Series Temporales
 
 **Descripción del Proyecto:**
 
@@ -16,7 +16,7 @@ El análisis final derivó en recomendaciones estratégicas orientadas a la gest
 
 ---
 
-### Financial Risk Analysis and Time Series Forecasting
+## Financial Risk Analysis and Time Series Forecasting
 
 **Project Description:**
 
