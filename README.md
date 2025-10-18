@@ -1,4 +1,4 @@
-### Identificación de Factores de Riesgo en el incumplimiento de Préstamos Financieros
+### Identificación de Factores de Riesgo en el Incumplimiento de Préstamos Financieros
 
 **Descripción del Proyecto:**
 
@@ -16,7 +16,7 @@ El análisis final derivó en recomendaciones estratégicas orientadas a la gest
 
 ---
 
-### Financial Risk Analysis and Time Series Forecasting
+### Identification of Risk Factors in Financial Loan Default
 
 **Project Description:**
 
